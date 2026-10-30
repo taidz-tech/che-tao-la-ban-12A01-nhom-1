@@ -1,0 +1,6 @@
+{
+  "name": "Chế Tạo La Bàn Thủ Công & Mô Phỏng Từ Trường Trái Đất",
+  "description": "Website thuyết trình tương tác 3D khoa học GDQP-AN: Chế tạo la bàn thủ công, đĩa tọa độ 360 độ và mô phỏng vật lý định hướng theo từ trường Trái Đất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
